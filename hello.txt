@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hello git 2222222222222222222222222222
-=======
 hello git 33333333333333  master test  
->>>>>>> hot-fix
+
